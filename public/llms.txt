@@ -1,0 +1,67 @@
+# Guy — Generative Engine Optimization Map
+
+> An educational English grammar quiz platform targeting Hebrew-speaking learners. The content focuses on teaching verb tenses — Present Simple, Past Simple, Present Continuous, and Future Simple — through structured multiple-choice questions with contextual hints written in Hebrew. The platform has a clear pedagogical approach, guiding students to identify time-marker clues (e.g., 'last night', 'right now', 'next week') to choose the correct verb form.
+
+---
+
+## Pages
+
+### Home
+https://guy-a8274abf.zappy5.app
+Unlock English grammar mastery for Hebrew speakers! Practice verb tenses with smart quizzes, contextual hints, and department of education-aligned lessons. Start now!
+
+## Legal & Policy
+
+### Privacy Policy
+https://guy-a8274abf.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://guy-a8274abf.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://guy-a8274abf.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://guy-a8274abf.zappy5.app
+- Endpoint: https://guy-a8274abf.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Guy
+An educational English grammar quiz platform targeting Hebrew-speaking learners. The content focuses on teaching verb tenses — Present Simple, Past Simple, Present Continuous, and Future Simple — through structured multiple-choice questions with contextual hints written in Hebrew. The platform has a clear pedagogical approach, guiding students to identify time-marker clues (e.g., 'last night', 'right now', 'next week') to choose the correct verb form.
+
+## Target Audience
+- English language learners (likely Hebrew speakers based on hint language)
+- Hebrew English Learners
+- ESL Students in Universities
+- Expat English Learners
+
+## Industry
+education
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://guy-a8274abf.zappy5.app/sitemap.xml
+- Robots: https://guy-a8274abf.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://guy-a8274abf.zappy5.app/llms-full.txt
